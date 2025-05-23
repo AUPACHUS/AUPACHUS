@@ -25,7 +25,6 @@
       
       📫 **Contacto**:  
       ✉️ jesustelefonico@gmail.com  
-      🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)  
       
       > _"La tecnología conecta personas"_
     </td>
