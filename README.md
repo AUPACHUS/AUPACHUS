@@ -1,12 +1,7 @@
-<div align="center">
-  
-# 👋 Jesús / @AUPACHUS  
-**Higher Technician in Telecommunications and Computer Systems | IT Specialist**  
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🇪🇸 Español</h3>
+  
+👋 Hello I´m Jesús / @AUPACHUS  
+**Higher Technician in Telecommunications and Computer Systems | IT Specialist**  
       
       🔭 **Actualmente**  
       - Técnico en infraestructuras de telecomunicaciones  
@@ -27,9 +22,7 @@
       ✉️ jesustelefonico@gmail.com  
       
       > _"La tecnología conecta personas"_
-    </td>
-    <td width="50%" valign="top">
-      <h3>🇬🇧 English</h3>
+   
       
       🔭 **Currently**  
       - Telecommunications Infrastructure Technician  
@@ -50,10 +43,4 @@
       ✉️ jesustelefonico@gmail.com  
       
       > _"Technology connects people"_
-    </td>
-  </tr>
-</table>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AUPACHUS&show_icons=true&theme=radical)
-
-</div>
+   
