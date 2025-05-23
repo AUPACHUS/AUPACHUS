@@ -1,16 +1,60 @@
-👋 Hola, soy @AUPACHUS
+<div align="center">
+  
+# 👋 Jesús / @AUPACHUS  
+**Higher Technician in Telecommunications and Computer Systems | IT Specialist**  
 
-🔭 Actualmente trabajando en sistemas de telecomunicaciones e informaticos
-🌱 Aprendiendo sobre Power Automate e Inteligencia Artificial
-💼 Experiencia profesional en gestión de proyectos de telecomunicaciones en entornos sanitarios
-🛠️ Especialista en instalación y configuración de sistemas FTTH y redes LAN
-📊 Conocimientos en Machine Learning con Python y programación Java
-📈 Certificaciones: Microsoft 365, Excel Avanzado, Administración Linux
-🔍 Interesado en nuevas tecnologías y soluciones de infraestructura IT
-💬 Pregúntame sobre redes, cableado estructurado o análisis de cobertura inalámbrica
-📫 Contacto: artemugiocursojava@gmail.com
-🌍 Ubicación: Getxo, Vizcaya
-⚡ Dato curioso: Además de mi experiencia técnica, también he trabajado como promotor, soporte tecnico n1 y conductor C+CAP
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇪🇸 Español</h3>
+      
+      🔭 **Actualmente**  
+      - Técnico en infraestructuras de telecomunicaciones  
+      - Desarrollando habilidades en programación  
+      
+      🛠 **Habilidades Técnicas**  
+      - 🔌 Telecomunicaciones: Instalación FTTH, replanteo de redes, migración de servicios  
+      - 🖥️ Soporte IT: Configuración de equipos, coordinación técnica, atención al cliente  
+      - 💻 Programación: Python (ML básico), Java (POO), HTML/CSS/JS  
+      - 🏗️ AutoCAD: Interpretación y diseño de planos para infraestructuras  
+      - 📋 Gestión de proyectos: Documentación y seguimiento de obras  
+      
+      📜 **Certificaciones**  
+      - Microsoft 365 Certified: Modern Desktop Administrator Associate  
+      - Inglés B2 (Intermediate)  
+      
+      📫 **Contacto**:  
+      ✉️ jesustelefonico@gmail.com  
+      🔗 [LinkedIn](https://www.linkedin.com/in/tuperfil)  
+      
+      > _"La tecnología conecta personas"_
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇬🇧 English</h3>
+      
+      🔭 **Currently**  
+      - Telecommunications Infrastructure Technician  
+      - Developing programming skills  
+      
+      🛠 **Technical Skills**  
+      - 🔌 Telecom: FTTH installation, network planning, service migration  
+      - 🖥️ IT Support: Equipment configuration, technical coordination, customer service  
+      - 💻 Programming: Python (Basic ML), Java (OOP), HTML/CSS/JS  
+      - 🏗️ AutoCAD: Interpretation and design of telecom infrastructure blueprints  
+      - 📋 Project Management: Documentation and work monitoring  
+      
+      📜 **Certifications**  
+      - Microsoft 365 Certified: Modern Desktop Administrator Associate  
+      - English B2 (Intermediate)  
+      
+      📫 **Contact**:  
+      ✉️ jesustelefonico@gmail.com  
+      
+      > _"Technology connects people"_
+    </td>
+  </tr>
+</table>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AUPACHUS&show_icons=true&theme=radical)
 
-"La tecnología funciona mejor cuando conecta personas"- 
+</div>
